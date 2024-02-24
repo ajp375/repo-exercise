@@ -1,0 +1,1 @@
+This is an edit to the result.txt file. This should be the new content
